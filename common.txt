@@ -2,3 +2,4 @@ hello from parent 1
 hello2 from parent 1
 hello from parent 2
 hello from subrepo
+hello 3 from parent 1
